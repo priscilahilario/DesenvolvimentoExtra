@@ -1,5 +1,9 @@
-for (i = 0; i < 4; i++){
-console.log('Conexão com JavaScript');
+function conexaoJs(){
+console.log("Conexão realizada com sucesso!!");
 }
+
+conexaoJs();
+conexaoJs();
+conexaoJs();
 
 
